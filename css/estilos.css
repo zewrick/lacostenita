@@ -19,3 +19,11 @@ body {
 #font-intro {
     font-size:2.5em;
 }
+
+
+@media screen and (max-width:800px){
+    #font-intro {
+        font-size:4em;
+    }  
+    
+}
