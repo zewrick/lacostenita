@@ -2,9 +2,6 @@
     float: none;
 }
 
-.margen-tope {
-    margin-top:350px;
-}
 
 a {
     text-decoration: none;
@@ -14,6 +11,10 @@ body {
     background-image:url(../imgs/background-intro.jpg);
     
     
+}
+
+.contenedor {
+    margin-top: 350px;
 }
 
 #font-intro {
