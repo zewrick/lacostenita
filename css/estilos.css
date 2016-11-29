@@ -14,5 +14,8 @@ body {
     background-image:url(../imgs/background-intro.jpg);
     
     
-    
+}
+
+#font-intro {
+    font-size:2.5em;
 }
