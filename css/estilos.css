@@ -28,6 +28,8 @@ body {
 @media screen and (max-width="800px"){
     .contenedor {
         width:100%px;
+        margin-top:50px;
     }
+    
 }
 
