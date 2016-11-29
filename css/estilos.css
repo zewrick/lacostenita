@@ -3,7 +3,7 @@
 }
 
 .margen-tope {
-    margin-top:270px;
+    margin-top:350px;
 }
 
 a {
@@ -17,13 +17,10 @@ body {
 }
 
 #font-intro {
-    font-size:2.5em;
+    font-size:4.3em;
 }
 
-
-@media screen and (max-width:800px){
-    #font-intro {
-        font-size:4em;
-    }  
-    
+#font-entrar {
+    font-size:1.6em;
 }
+
