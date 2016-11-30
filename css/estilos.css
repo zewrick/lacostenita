@@ -60,11 +60,13 @@ body {
 
 
 #font-entrar {
-    font-size:1.6em;
+    font-size:1.3em;
+    padding: 10px;
 }
 
 #font-entrar a {
     text-decoration: none;
+    
 }
 
 .contenedor {
@@ -73,7 +75,7 @@ body {
 
 .subcontenedor {
     
-    height: 600px;
+    height: 400px;
     text-align: center;
 }
 
@@ -85,7 +87,8 @@ body {
 
 @media screen and (min-width: 800px) {
     .subcontenedor {
-        height: 900px;
+        height: 650px;
     }
 }
+
 
