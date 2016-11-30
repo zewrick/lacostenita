@@ -3,6 +3,15 @@
     src:url(Thinking_of_Betty.ttf);
 }
 
-h1{
-    font-family:Thinking_of_Betty;
+@font-face{
+    font-family:Anson-Regular;
+    src:url(Anson-Regular.otf);
 }
+
+
+#font-entrar, a {
+    font-family:Anson-Regular;
+    color:#1f5fa8;
+}
+
+

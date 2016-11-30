@@ -60,8 +60,9 @@ body {
 
 
 #font-entrar {
-    font-size:1.3em;
+    font-size:1.18em;
     padding: 10px;
+    letter-spacing:4px;
 }
 
 #font-entrar a {
